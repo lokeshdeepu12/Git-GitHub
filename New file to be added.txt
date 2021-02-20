@@ -1,1 +1,3 @@
-I am new to this tool
+I am new to this tool.
+
+Now i have to do second commit.
